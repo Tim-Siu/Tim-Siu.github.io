@@ -10,7 +10,7 @@ baseurl: ""
 url: "https://Tim-Siu.github.io/"
 github_username:  pesoto
 disqus_baseurl: "https://Tim-Siu.github.io/"
-disqus_shortname: https-pesoto-github-io
+disqus_shortname: https-Tim-Siu-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -40,14 +40,14 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
-    url: https://github.com/pesoto
+    username: Tim-Siu
+    url: https://github.com/Tim-Siu    
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Paul E. Soto
-    url: https://linkedin.com/pesoto
+    username: 
+    url: 
     desc: Connect with me on LinkedIn
     share: true
