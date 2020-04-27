@@ -1,15 +1,15 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: S.Y.Xu
+name: S.Y.Xu
+subtitle: Olympia Physics Student
+email: xushuyao@xsy.science
 description: >
-  Financial Economist
+  Olympia Physics Student
 baseurl: ""
-url: "https://pesoto.github.io/"
+url: "https://Tim-Siu.github.io/"
 github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
+disqus_baseurl: "https://Tim-Siu.github.io/"
 disqus_shortname: https-pesoto-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
@@ -25,7 +25,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "S.Y.Xu"
 
 
 
