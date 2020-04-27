@@ -8,7 +8,7 @@ description: >
   Olympia Physics Student
 baseurl: ""
 url: "https://Tim-Siu.github.io/"
-github_username:  pesoto
+github_username:  Tim-Siu
 disqus_baseurl: "https://Tim-Siu.github.io/"
 disqus_shortname: https-Tim-Siu-github-io
 permalink: :title
